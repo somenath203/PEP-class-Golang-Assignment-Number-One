@@ -6,4 +6,4 @@ My fullname: Somenath Choudhury
 
 My Registration Number: 12001350
 
-My Email ID: somenath.12001350@lpu.in
+My LPU Registered Email ID: somenath.12001350@lpu.in
